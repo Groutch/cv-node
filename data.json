@@ -1,0 +1,48 @@
+{
+    "CV": {
+        "home": [{
+            "title": "Voici mon CV",
+            "content": "A gauche vous pouvez ouvrir le menu pour accéder aux différentes parties de mon CV."
+        }],
+        "skill": [{
+            "title": "Langages de Programmation",
+            "content": "Javascript, Node, HTML, CSS, PHP<br>Notions: Java, C, C++, W-Langage, Delphi, Macros, BASIC"
+        }, {
+            "title": "Base de Données",
+            "content": "MySQL, SQLite, MongoDB, Oracle, XML, Access"
+        }, {
+            "title": "Modélisation Systèmes d'information",
+            "content": "Merise, UML"
+        }, {
+            "title": "Systèmes d'exploitation",
+            "content": "Unix/Linux, Windows, DOS Administration système, Script Shell"
+        }],
+        "xp": [{
+            "title": "Vendeur Multimédia",
+            "content": "E.Leclerc Saint-Gaudens (31) (2012 - 2017)<br>Vente, conseil, gestion du rayon Multimédia"
+        }, {
+            "title": "Équipier <span>Polyvalent</span>",
+            "content": "McDonald's Provins (77) (2010)<br>Formé en Caisse"
+        }, {
+            "title": "Developeur Stagiaire",
+            "content": "Humirel : Toulouse (31) (2008)<br>Création d’un logiciel de C.A.O. avec Delphi et MySQL"
+        }],
+        "training": [{
+            "title": "Formation Développeur Web",
+            "content": "Obtenu (2019)<br>Organisme Simplon - Saint-Gaudens (31)"
+        }, {
+            "title": "DUT Informatique",
+            "content": "Obtenu (2008)<br>Université Paul Sabatier - Toulouse (31)"
+        }, {
+            "title": "Baccalauréat série STI électronique",
+            "content": "Obtenu (2005)<br>Lycée Jean Dupuy - Tarbes (65)"
+        }],
+        "fun": [{
+            "title": "Électronique",
+            "content": "Réparation, Elaboration de circuits simples"
+        }, {
+            "title": "Jeux Vidéos",
+            "content": "Traducteur Français pour un MMORPG"
+        }]
+    }
+}
